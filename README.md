@@ -1,7 +1,8 @@
-## Hi there 👋
 ## Cristobal Lara — Full-Stack Software Engineer
 
 Vancouver, BC · Java/Spring · TypeScript/Node · React · PostgreSQL · AWS/GCP
+
+**Portfolio → [cristobal-lara.dev](https://cristobal-lara.dev)**
 
 ### Currently
 
@@ -35,5 +36,6 @@ This is my personal GitHub — pinned projects, learning, and side work. My day-
 
 ### Contact
 
+- Portfolio: [cristobal-lara.dev](https://cristobal-lara.dev)
 - Email: cristobal.lara.dev@gmail.com
 - LinkedIn: [linkedin.com/in/cristobal-lara](https://www.linkedin.com/in/cristobal-lara)
